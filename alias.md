@@ -11,3 +11,5 @@ alias bi="bundle install"
 alias migdev="heroku run rake db:migrate --app your_staging_app_name"
 alias pushhk="git push heroku master"
 ```
+
+Restart tour terminal
