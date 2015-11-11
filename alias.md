@@ -1,4 +1,4 @@
-If you want to add some smart aliases to your terminal boring command :smile:
+If you want to add some smart aliases to your terminal boring commands :smile:
 
 Open .zshrc file in SublimeText:
 `stt ~/.zshrc`
